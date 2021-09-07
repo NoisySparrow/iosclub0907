@@ -111,8 +111,8 @@ uglyURLs = false
 # 相關文章
 [related]
     threshold = 80
-    includeNewer = flase
-    toLower = true
+    includeNewer = flase # 首頁文章顯示
+    toLower = flase
     [[related.indices]]
         name = "categories"
         weight = 100
