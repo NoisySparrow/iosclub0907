@@ -2,7 +2,7 @@
 # 站點配置
 
 baseURL = "https://noisysparrow.github.io/iosclub0907/"
-title = "Hugo 主題 MemE"
+title = "Hamster-Blog"
 languageCode = "zh-TW"
 hasCJKLanguage = true
 # 版權資訊（支援 Markdown）
