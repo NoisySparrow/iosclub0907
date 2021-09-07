@@ -111,7 +111,7 @@ uglyURLs = false
 # 相關文章
 [related]
     threshold = 80
-    includeNewer = true
+    includeNewer = flase
     toLower = true
     [[related.indices]]
         name = "categories"
